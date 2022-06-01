@@ -12,8 +12,8 @@ h1 {
   font-weight:normal;
   margin: auto;
   position: absolute;
-  top: 30%;
-  left: 60%;
+  top: 40%;
+  left: 52%;
   transform: translate(-50%, -50%);
 }
 
@@ -127,12 +127,14 @@ a:hover{
 }
 
 .instagram {
-  margin-left: 290px;
-  margin-right: 300px;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 50px;
 }
 
 .instagram-link {
-  margin-top: 50px;
+  width: 800px;
+  margin: 0 auto;
 }
 
 .contact-message {
